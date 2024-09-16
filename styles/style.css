@@ -3,3 +3,28 @@ Text: 1A1A1A
 Green: #00B172
 White: #FFF
 */
+
+.logo-icon {
+    height: 50px;
+}
+
+.hero-image {
+    background-image: url(../images/landing.jpg);
+}
+
+.feature-icon {
+    height: 50px;
+}
+
+.inner-content-box {
+    background-color: #00B172;
+    color: white;
+}
+
+.logo-background-icon {
+    height: 90px;
+}
+
+.app-screenshot {
+    height: 200px;
+}
