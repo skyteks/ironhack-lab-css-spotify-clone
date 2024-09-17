@@ -19,6 +19,14 @@ White: #FFF
 .inner-content-box {
     background-color: #00B172;
     color: white;
+    flex-direction: row;
+    display: flex;
+    align-items: stretch;
+}
+
+.inner-content-box-inside {
+    flex-direction: row;
+    display: flex;
 }
 
 .logo-background-icon {
